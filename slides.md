@@ -1,5 +1,5 @@
 ---
-title: 'Understand the hard parts of Nuxt'
+title: 'Quick introduction to mech keebs'
 theme: seriph
 
 # fonts:
@@ -8,7 +8,7 @@ theme: seriph
 download: true
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: /images/keeb_knife.jpg
+background: https://i.imgur.com/noLVjfO.jpeg
 
 drawings:
   enabled: dev
@@ -31,31 +31,27 @@ src: ./slides/index.md
 ---
 
 ---
-src: ./slides/me.md
+src: ./slides/why.md
 ---
 
 ---
-src: ./slides/rendering_modes.md
+src: ./slides/custom.md
 ---
 
 ---
-src: ./slides/spa.md
+src: ./slides/form_factor.md
 ---
 
 ---
-src: ./slides/spa_pro_cons.md
+src: ./slides/structure.md
 ---
 
 ---
-src: ./slides/ssr.md
+src: ./slides/keycaps.md
 ---
 
 ---
-src: ./slides/ssr_pro_cons.md
----
-
----
-src: ./slides/ssg.md
+src: ./slides/rest.md
 ---
 
 ---

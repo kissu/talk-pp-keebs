@@ -5,10 +5,10 @@ h1, h2, h3, h4, p, div, a {
   @apply font-sans m-0;
 }
 .dark #slide-content,
-.slidev-layout.cover,
-.slidev-layout.intro {
-  background-color: hsl(192.7, 96.3%, 10.6%);
+.slidev-layout,
+.slidev-layout {
+  background: linear-gradient(rgba(0, 0, 0, 0.7) 100%, rgba(0, 0, 0, 0.7) 100%), center / cover no-repeat url("https://i.imgur.com/iW7QgTs.jpg");
 }
 .slidev-layout {
-  @apply py-8;
+  @apply py-4;
 }
